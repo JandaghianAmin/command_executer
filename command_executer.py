@@ -15,5 +15,5 @@ def execute_bash_commands(file_path):
         print(f"An error occurred: {e}")
 
 # Replace 'your_file.txt' with the path to your text file
-file_path = 'your_file.txt'
+file_path = 'list_command.txt'
 execute_bash_commands(file_path)
